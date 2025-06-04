@@ -6,7 +6,7 @@
 }
 
 body {
-    background: #001e4d;
+    background: #C68EFD;
 }
 
 .app {
@@ -60,7 +60,7 @@ body {
 }
 
 #next-btn {
-    background: #001e4d;
+    background: #9B7EBD;
     color: #fff;
     font-weight: 500;
     width: 150px;
@@ -73,9 +73,9 @@ body {
 }
 
 .correct {
-    background: #9aeabc;
+    background: #99BC85;
 }
 
 .incorrect {
-    background: #ff9393;
+    background: #FF3F33;
 }
